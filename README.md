@@ -72,6 +72,9 @@ RxJava resources
  * [storio](https://github.com/pushtorefresh/storio) -支持RxJava的数据库
 
  * [retrofit](https://github.com/square/retrofit) -支持RxJava的网络请求库
+ 
+ * [RxJavaProGuardRules](https://github.com/artem-zinnatullin/RxJavaProGuardRules) -RxJava 混淆规则
+ 
 
 ## Stackoverflow
  
